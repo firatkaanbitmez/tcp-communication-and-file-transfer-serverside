@@ -1,0 +1,681 @@
+C:\Users\FIRAT\Desktop\TCPIPServerClient\TCPIPServer\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\TCPIPServerClient\TCPIPServer\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\TCPIPServerClient\TCPIPServer\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\TCPIPServerClient\TCPIPServer\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\TCPIPServerClient\TCPIPServer\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\TCPIPServerClient\TCPIPServer\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\TCPIPServerClient\TCPIPServer\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\TCPIPServerClient\TCPIPServer\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\TCPIPServerClient\TCPIPServer\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\TCPIPServerClient\TCPIPServer\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\TCPIPServerClient\TCPIPServer\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\TCPIPServerClient\TCPIPServer\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\TCPIPServerClient\TCPIPServer\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\TCPIPServerClient\TCPIPServer\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\bozulan\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\bozulan\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\bozulan\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\bozulan\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\bozulan\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\bozulan\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\bozulan\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\bozulan\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\bozulan\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\bozulan\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\bozulan\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\bozulan\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\bozulan\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\bozulan\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\bozulan\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\bitirme_projesi\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\bitirme_projesi\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\bitirme_projesi\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\bitirme_projesi\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\bitirme_projesi\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\bitirme_projesi\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\bitirme_projesi\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\bitirme_projesi\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\bitirme_projesi\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\bitirme_projesi\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\bitirme_projesi\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\bitirme_projesi\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\bitirme_projesi\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\bitirme_projesi\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\bitirme_projesi\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\yedek 19.05--saat 20İ50\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\yedek 19.05--saat 20İ50\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek 19.05--saat 20İ50\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek 19.05--saat 20İ50\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\yedek 19.05--saat 20İ50\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\yedek 19.05--saat 20İ50\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\yedek 19.05--saat 20İ50\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\yedek 19.05--saat 20İ50\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\yedek 19.05--saat 20İ50\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\yedek 19.05--saat 20İ50\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\yedek 19.05--saat 20İ50\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\yedek 19.05--saat 20İ50\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\yedek 19.05--saat 20İ50\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\yedek 19.05--saat 20İ50\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek 19.05--saat 20İ50\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek 20.05-- saa t03.00\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\yedek 20.05-- saa t03.00\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek 20.05-- saa t03.00\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek 20.05-- saa t03.00\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\yedek 20.05-- saa t03.00\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\yedek 20.05-- saa t03.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\yedek 20.05-- saa t03.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\yedek 20.05-- saa t03.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\yedek 20.05-- saa t03.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\yedek 20.05-- saa t03.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\yedek 20.05-- saa t03.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\yedek 20.05-- saa t03.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\yedek 20.05-- saa t03.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\yedek 20.05-- saa t03.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek 20.05-- saa t03.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek 20.05--Saat 16.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\yedek 20.05--Saat 16.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\yedek 20.05--Saat 16.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\yedek 20.05--Saat 16.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\yedek 20.05--Saat 16.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\yedek 20.05--Saat 16.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\yedek 20.05--Saat 16.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek 20.05--Saat 16.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek 20.05--Saat 16.00\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\yedek 20.05--Saat 16.00\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek 20.05--Saat 16.00\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek 20.05--Saat 16.00\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\yedek 20.05--Saat 16.00\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\yedek 20.05--Saat 16.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Downloads\yedek 21.05--saat 04.19\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Downloads\yedek 21.05--saat 04.19\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Downloads\yedek 21.05--saat 04.19\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Downloads\yedek 21.05--saat 04.19\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Downloads\yedek 21.05--saat 04.19\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Downloads\yedek 21.05--saat 04.19\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Downloads\yedek 21.05--saat 04.19\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Downloads\yedek 21.05--saat 04.19\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Downloads\yedek 21.05--saat 04.19\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Downloads\yedek 21.05--saat 04.19\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Downloads\yedek 21.05--saat 04.19\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Downloads\yedek 21.05--saat 04.19\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Downloads\yedek 21.05--saat 04.19\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Downloads\yedek 21.05--saat 04.19\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek 23.05.--saat 04.47\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\yedek 23.05.--saat 04.47\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek 23.05.--saat 04.47\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek 23.05.--saat 04.47\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\yedek 23.05.--saat 04.47\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\yedek 23.05.--saat 04.47\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\yedek 23.05.--saat 04.47\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\yedek 23.05.--saat 04.47\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\yedek 23.05.--saat 04.47\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\yedek 23.05.--saat 04.47\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\yedek 23.05.--saat 04.47\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\yedek 23.05.--saat 04.47\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\yedek 23.05.--saat 04.47\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek 23.05.--saat 04.47\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek 23.05.--saat 22.38\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\yedek 23.05.--saat 22.38\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\yedek 23.05.--saat 22.38\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\yedek 23.05.--saat 22.38\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\yedek 23.05.--saat 22.38\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\yedek 23.05.--saat 22.38\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\yedek 23.05.--saat 22.38\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\yedek 23.05.--saat 22.38\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek 23.05.--saat 22.38\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek 23.05.--saat 22.38\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\yedek 23.05.--saat 22.38\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\yedek 23.05.--saat 22.38\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\yedek 23.05.--saat 22.38\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek 23.05.--saat 22.38\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek 25.05 -saat 21.21\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\yedek 25.05 -saat 21.21\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\yedek 25.05 -saat 21.21\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\yedek 25.05 -saat 21.21\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\yedek 25.05 -saat 21.21\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\yedek 25.05 -saat 21.21\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\yedek 25.05 -saat 21.21\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\yedek 25.05 -saat 21.21\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek 25.05 -saat 21.21\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek 25.05 -saat 21.21\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\yedek 25.05 -saat 21.21\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\yedek 25.05 -saat 21.21\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\yedek 25.05 -saat 21.21\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek 25.05 -saat 21.21\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek 25.05 -saat 21.21\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\yedek 27.05--saat 02.14\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\yedek 27.05--saat 02.14\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek 27.05--saat 02.14\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek 27.05--saat 02.14\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\yedek 27.05--saat 02.14\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\yedek 27.05--saat 02.14\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\yedek 27.05--saat 02.14\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\yedek 27.05--saat 02.14\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\yedek 27.05--saat 02.14\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\yedek 27.05--saat 02.14\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\yedek 27.05--saat 02.14\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\yedek 27.05--saat 02.14\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\yedek 27.05--saat 02.14\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\yedek 27.05--saat 02.14\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek 27.05--saat 02.14\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek02.06--saat 04.10\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\yedek02.06--saat 04.10\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek02.06--saat 04.10\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek02.06--saat 04.10\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\yedek02.06--saat 04.10\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\yedek02.06--saat 04.10\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\yedek02.06--saat 04.10\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\yedek02.06--saat 04.10\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\yedek02.06--saat 04.10\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\yedek02.06--saat 04.10\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmSVConfig.resources
+C:\Users\FIRAT\Desktop\yedek02.06--saat 04.10\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\yedek02.06--saat 04.10\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\yedek02.06--saat 04.10\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\yedek02.06--saat 04.10\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\yedek02.06--saat 04.10\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek02.06--saat 04.10\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek02.06--saat 05.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\yedek02.06--saat 05.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\yedek02.06--saat 05.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\yedek02.06--saat 05.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\yedek02.06--saat 05.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmSVConfig.resources
+C:\Users\FIRAT\Desktop\yedek02.06--saat 05.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\yedek02.06--saat 05.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek02.06--saat 05.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek02.06--saat 05.00\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\yedek02.06--saat 05.00\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek02.06--saat 05.00\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek02.06--saat 05.00\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\yedek02.06--saat 05.00\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\yedek02.06--saat 05.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\yedek02.06--saat 05.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\yedek02.06--saat 05.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.37\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.37\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.37\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.37\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.37\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.37\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.37\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.37\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.37\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.37\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmSVConfig.resources
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.37\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.37\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.37\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.37\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.37\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.37\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.57\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.57\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.57\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.57\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.57\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.57\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.57\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.57\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.57\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.57\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmSVConfig.resources
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.57\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.57\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.57\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.57\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.57\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek02.06--saat 06.57\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek02.06--saat 09.20\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\yedek02.06--saat 09.20\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek02.06--saat 09.20\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek02.06--saat 09.20\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\yedek02.06--saat 09.20\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\yedek02.06--saat 09.20\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\yedek02.06--saat 09.20\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\yedek02.06--saat 09.20\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\yedek02.06--saat 09.20\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\yedek02.06--saat 09.20\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmSVConfig.resources
+C:\Users\FIRAT\Desktop\yedek02.06--saat 09.20\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\yedek02.06--saat 09.20\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\yedek02.06--saat 09.20\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\yedek02.06--saat 09.20\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\yedek02.06--saat 09.20\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek02.06--saat 09.20\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek03.06--saat 11.47\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\yedek03.06--saat 11.47\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek03.06--saat 11.47\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek03.06--saat 11.47\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\yedek03.06--saat 11.47\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\yedek03.06--saat 11.47\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\yedek03.06--saat 11.47\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\yedek03.06--saat 11.47\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\yedek03.06--saat 11.47\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\yedek03.06--saat 11.47\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmSVConfig.resources
+C:\Users\FIRAT\Desktop\yedek03.06--saat 11.47\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\yedek03.06--saat 11.47\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\yedek03.06--saat 11.47\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\yedek03.06--saat 11.47\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\yedek03.06--saat 11.47\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek03.06--saat 11.47\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek03.06--saat 12.25\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\yedek03.06--saat 12.25\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek03.06--saat 12.25\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek03.06--saat 12.25\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\yedek03.06--saat 12.25\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\yedek03.06--saat 12.25\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\yedek03.06--saat 12.25\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\yedek03.06--saat 12.25\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\yedek03.06--saat 12.25\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\yedek03.06--saat 12.25\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmSVConfig.resources
+C:\Users\FIRAT\Desktop\yedek03.06--saat 12.25\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\yedek03.06--saat 12.25\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\yedek03.06--saat 12.25\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\yedek03.06--saat 12.25\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\yedek03.06--saat 12.25\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek03.06--saat 12.25\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Downloads\Compressed\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Downloads\Compressed\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Downloads\Compressed\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Downloads\Compressed\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Downloads\Compressed\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Downloads\Compressed\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Downloads\Compressed\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Downloads\Compressed\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Downloads\Compressed\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Downloads\Compressed\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmSVConfig.resources
+C:\Users\FIRAT\Downloads\Compressed\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Downloads\Compressed\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Downloads\Compressed\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Downloads\Compressed\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Downloads\Compressed\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Downloads\Compressed\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmSVConfig.resources
+C:\Users\FIRAT\Desktop\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\yedek03.06--saat 13.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\yedek03.06--saat 18.50\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\yedek03.06--saat 18.50\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\yedek03.06--saat 18.50\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\yedek03.06--saat 18.50\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\yedek03.06--saat 18.50\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmSVConfig.resources
+C:\Users\FIRAT\Desktop\yedek03.06--saat 18.50\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\yedek03.06--saat 18.50\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\yedek03.06--saat 18.50\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\yedek03.06--saat 18.50\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\yedek03.06--saat 18.50\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek03.06--saat 18.50\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek03.06--saat 18.50\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\yedek03.06--saat 18.50\TCP_SERVER\TCP_SERVER\bin\Debug\MaterialSkin.dll
+C:\Users\FIRAT\Desktop\yedek03.06--saat 18.50\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\yedek03.06--saat 18.50\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\yedek03.06--saat 18.50\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek03.06--saat 18.50\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek04.06-saat 06.16\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\yedek04.06-saat 06.16\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek04.06-saat 06.16\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek04.06-saat 06.16\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\yedek04.06-saat 06.16\TCP_SERVER\TCP_SERVER\bin\Debug\MaterialSkin.dll
+C:\Users\FIRAT\Desktop\yedek04.06-saat 06.16\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\yedek04.06-saat 06.16\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\yedek04.06-saat 06.16\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\yedek04.06-saat 06.16\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\yedek04.06-saat 06.16\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\yedek04.06-saat 06.16\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmSVConfig.resources
+C:\Users\FIRAT\Desktop\yedek04.06-saat 06.16\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\yedek04.06-saat 06.16\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\yedek04.06-saat 06.16\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\yedek04.06-saat 06.16\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\yedek04.06-saat 06.16\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek04.06-saat 06.16\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.23\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.23\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.23\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.23\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.23\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmSVConfig.resources
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.23\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.23\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.23\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.23\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.23\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.23\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.23\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.23\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.23\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.23\TCP_SERVER\TCP_SERVER\bin\Debug\MaterialSkin.dll
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.23\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.23\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.55\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.55\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.55\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.55\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.55\TCP_SERVER\TCP_SERVER\bin\Debug\MaterialSkin.dll
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.55\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.55\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.55\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.55\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.55\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.55\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmSVConfig.resources
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.55\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.55\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.55\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.55\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.55\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek04.06-saat 08.55\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek04.06-saat 21.08\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\yedek04.06-saat 21.08\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek04.06-saat 21.08\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek04.06-saat 21.08\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\yedek04.06-saat 21.08\TCP_SERVER\TCP_SERVER\bin\Debug\MaterialSkin.dll
+C:\Users\FIRAT\Desktop\yedek04.06-saat 21.08\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\yedek04.06-saat 21.08\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\yedek04.06-saat 21.08\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\yedek04.06-saat 21.08\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\yedek04.06-saat 21.08\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\yedek04.06-saat 21.08\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmSVConfig.resources
+C:\Users\FIRAT\Desktop\yedek04.06-saat 21.08\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\yedek04.06-saat 21.08\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\yedek04.06-saat 21.08\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\yedek04.06-saat 21.08\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\yedek04.06-saat 21.08\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek04.06-saat 21.08\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\yedek\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\yedek\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\yedek\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\yedek\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmSVConfig.resources
+C:\Users\FIRAT\Desktop\yedek\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\yedek\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\yedek\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\yedek\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\yedek\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\yedek\TCP_SERVER\TCP_SERVER\bin\Debug\MaterialSkin.dll
+C:\Users\FIRAT\Desktop\yedek\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\yedek\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\yedek\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek 07.06--saat 19.01\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\yedek 07.06--saat 19.01\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek 07.06--saat 19.01\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek 07.06--saat 19.01\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\yedek 07.06--saat 19.01\TCP_SERVER\TCP_SERVER\bin\Debug\MaterialSkin.dll
+C:\Users\FIRAT\Desktop\yedek 07.06--saat 19.01\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\yedek 07.06--saat 19.01\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\yedek 07.06--saat 19.01\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\yedek 07.06--saat 19.01\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\yedek 07.06--saat 19.01\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\yedek 07.06--saat 19.01\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmSVConfig.resources
+C:\Users\FIRAT\Desktop\yedek 07.06--saat 19.01\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\yedek 07.06--saat 19.01\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\yedek 07.06--saat 19.01\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\yedek 07.06--saat 19.01\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\yedek 07.06--saat 19.01\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek 07.06--saat 19.01\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek08.06-saat 02.37\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\yedek08.06-saat 02.37\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek08.06-saat 02.37\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek08.06-saat 02.37\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\yedek08.06-saat 02.37\TCP_SERVER\TCP_SERVER\bin\Debug\MaterialSkin.dll
+C:\Users\FIRAT\Desktop\yedek08.06-saat 02.37\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\yedek08.06-saat 02.37\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\yedek08.06-saat 02.37\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\yedek08.06-saat 02.37\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\yedek08.06-saat 02.37\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\yedek08.06-saat 02.37\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmSVConfig.resources
+C:\Users\FIRAT\Desktop\yedek08.06-saat 02.37\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\yedek08.06-saat 02.37\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\yedek08.06-saat 02.37\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\yedek08.06-saat 02.37\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\yedek08.06-saat 02.37\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek08.06-saat 02.37\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek09.06-saat 00.45\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\yedek09.06-saat 00.45\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek09.06-saat 00.45\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek09.06-saat 00.45\TCP_SERVER\TCP_SERVER\bin\Debug\MaterialSkin.dll
+C:\Users\FIRAT\Desktop\yedek09.06-saat 00.45\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\yedek09.06-saat 00.45\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\yedek09.06-saat 00.45\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\yedek09.06-saat 00.45\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\yedek09.06-saat 00.45\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\yedek09.06-saat 00.45\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmSVConfig.resources
+C:\Users\FIRAT\Desktop\yedek09.06-saat 00.45\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Main.resources
+C:\Users\FIRAT\Desktop\yedek09.06-saat 00.45\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\yedek09.06-saat 00.45\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\yedek09.06-saat 00.45\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\yedek09.06-saat 00.45\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\yedek09.06-saat 00.45\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek09.06-saat 00.45\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek09.06-saat 00.45\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\çalışma\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\çalışma\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\çalışma\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\çalışma\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\çalışma\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmSVConfig.resources
+C:\Users\FIRAT\Desktop\çalışma\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Main.resources
+C:\Users\FIRAT\Desktop\çalışma\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\çalışma\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\çalışma\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\çalışma\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\çalışma\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\çalışma\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\çalışma\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\çalışma\TCP_SERVER\TCP_SERVER\bin\Debug\MaterialSkin.dll
+C:\Users\FIRAT\Desktop\çalışma\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\çalışma\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\çalışma\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\çalışma\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek12.06--saat 02.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\yedek12.06--saat 02.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\yedek12.06--saat 02.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\yedek12.06--saat 02.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\yedek12.06--saat 02.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmSVConfig.resources
+C:\Users\FIRAT\Desktop\yedek12.06--saat 02.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Main.resources
+C:\Users\FIRAT\Desktop\yedek12.06--saat 02.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\yedek12.06--saat 02.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\yedek12.06--saat 02.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\yedek12.06--saat 02.00\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\yedek12.06--saat 02.00\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek12.06--saat 02.00\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek12.06--saat 02.00\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\yedek12.06--saat 02.00\TCP_SERVER\TCP_SERVER\bin\Debug\MaterialSkin.dll
+C:\Users\FIRAT\Desktop\yedek12.06--saat 02.00\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\yedek12.06--saat 02.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\yedek12.06--saat 02.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek12.06--saat 02.00\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek13.06--saat 00.20\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\yedek13.06--saat 00.20\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek13.06--saat 00.20\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek13.06--saat 00.20\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\yedek13.06--saat 00.20\TCP_SERVER\TCP_SERVER\bin\Debug\MaterialSkin.dll
+C:\Users\FIRAT\Desktop\yedek13.06--saat 00.20\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\yedek13.06--saat 00.20\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\yedek13.06--saat 00.20\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\yedek13.06--saat 00.20\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\yedek13.06--saat 00.20\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\yedek13.06--saat 00.20\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmSVConfig.resources
+C:\Users\FIRAT\Desktop\yedek13.06--saat 00.20\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Main.resources
+C:\Users\FIRAT\Desktop\yedek13.06--saat 00.20\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\yedek13.06--saat 00.20\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\yedek13.06--saat 00.20\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\yedek13.06--saat 00.20\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\yedek13.06--saat 00.20\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek13.06--saat 00.20\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek13.06--saat 05.10\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\yedek13.06--saat 05.10\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\yedek13.06--saat 05.10\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\yedek13.06--saat 05.10\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\yedek13.06--saat 05.10\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmSVConfig.resources
+C:\Users\FIRAT\Desktop\yedek13.06--saat 05.10\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Main.resources
+C:\Users\FIRAT\Desktop\yedek13.06--saat 05.10\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\yedek13.06--saat 05.10\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\yedek13.06--saat 05.10\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\yedek13.06--saat 05.10\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\yedek13.06--saat 05.10\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek13.06--saat 05.10\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek13.06--saat 05.10\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\yedek13.06--saat 05.10\TCP_SERVER\TCP_SERVER\bin\Debug\MaterialSkin.dll
+C:\Users\FIRAT\Desktop\yedek13.06--saat 05.10\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\yedek13.06--saat 05.10\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\yedek13.06--saat 05.10\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek13.06--saat 05.10\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmSVConfig.resources
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Main.resources
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\bin\Debug\MaterialSkin.dll
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\bin\Debug\DeltaCompressionDotNet.dll
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.dll
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\bin\Debug\NuGet.Squirrel.dll
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\bin\Debug\SharpCompress.dll
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\bin\Debug\Squirrel.dll
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.pdb
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.Mdb.pdb
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.Pdb.pdb
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.Rocks.pdb
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\bin\Debug\NuGet.Squirrel.pdb
+C:\Users\FIRAT\Desktop\yedek13.06--saat 10.17\TCP_SERVER\TCP_SERVER\bin\Debug\Squirrel.pdb
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\bin\Debug\DeltaCompressionDotNet.dll
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\bin\Debug\MaterialSkin.dll
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.dll
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\bin\Debug\NuGet.Squirrel.dll
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\bin\Debug\SharpCompress.dll
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\bin\Debug\Squirrel.dll
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.pdb
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.Mdb.pdb
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.Pdb.pdb
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.Rocks.pdb
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\bin\Debug\NuGet.Squirrel.pdb
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\bin\Debug\Squirrel.pdb
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmSVConfig.resources
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Main.resources
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek13.06--saat 16.30\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\bin\Debug\DeltaCompressionDotNet.dll
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\bin\Debug\MaterialSkin.dll
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.dll
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\bin\Debug\NuGet.Squirrel.dll
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\bin\Debug\SharpCompress.dll
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\bin\Debug\Squirrel.dll
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.pdb
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.Mdb.pdb
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.Pdb.pdb
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.Rocks.pdb
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\bin\Debug\NuGet.Squirrel.pdb
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\bin\Debug\Squirrel.pdb
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmSVConfig.resources
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek14.06--saat 07.40\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmScreenShare.resources
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.dll
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\bin\Debug\DeltaCompressionDotNet.dll
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\bin\Debug\MaterialSkin.dll
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.dll
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\bin\Debug\NuGet.Squirrel.dll
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\bin\Debug\SharpCompress.dll
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\bin\Debug\Squirrel.dll
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\bin\Debug\CommonClassLibs.pdb
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.pdb
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.Mdb.pdb
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.Pdb.pdb
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\bin\Debug\Mono.Cecil.Rocks.pdb
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\bin\Debug\NuGet.Squirrel.pdb
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\bin\Debug\Squirrel.pdb
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmManagment.resources
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmServer.resources
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmSVConfig.resources
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.frmScreenShare.resources
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\FIRAT\Desktop\yedek14.06--saat 20.58\TCP_SERVER\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
