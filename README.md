@@ -12,13 +12,11 @@ second part TCP_CLIENT
 
 THIS SOURCE CODE version 1.0.0 first beta
 
-THIS source code needs additional resources to work
-
-This Files Added source Code
-
-https://disk.yandex.com.tr/d/tfXo4_5N8Rk0tg
-
 PLEASE LAST RELEASE VERSION DOWNLOAD
 
+***THIS source code needs additional resources to work
 
+This Files Added source Code
+Same Link is have Program user manual
+https://disk.yandex.com.tr/d/tfXo4_5N8Rk0tg
 
