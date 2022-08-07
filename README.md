@@ -1,4 +1,4 @@
-# TCP_SERVER --(Recommended)++please download the latest released release version.
+# TCP_SERVER --(Recommended)++please download the last release version.
 
 In this project, it is designed for file transfer and communication over a specific IP and port over local network connection.
 
